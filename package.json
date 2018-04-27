@@ -1,0 +1,39 @@
+{
+  "name": "react-native-parallax-scroll-opacity",
+  "version": "0.0.1",
+  "description": "Reactnative a scrolling visual components, using HOC component encapsulation, convenient and reuse。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/geekwill/react-native-parallax-scroll-opacity.git"
+  },
+  "keywords": [
+    "reactnative",
+    "component",
+    "react",
+    "parallax",
+    "scroll",
+    "opacity"
+  ],
+  "engines": {
+    "node": ">=8",
+    "npm": ">=4"
+  },
+  "author": {
+    "name": "geekwill",
+    "email": "geek.willyu@gmail.com",
+    "url": "http://www.geekcode.me"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/geekwill/react-native-parallax-scroll-opacity/issues"
+  },
+  "homepage": "https://github.com/geekwill/react-native-parallax-scroll-opacity#readme",
+  "dependencies": {
+    "react": "^16.3.2",
+    "react-native": "^0.55.3"
+  }
+}
