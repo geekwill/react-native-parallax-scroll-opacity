@@ -1,3 +1,5 @@
+[![NPM](https://nodei.co/npm-dl/react-native-parallax-scroll-opacity.png?height=2)](https://nodei.co/npm/react-native-parallax-scroll-opacity/)
+
 # react-native-parallax-scroll-opacity
 
 Reactnative a scrolling visual components, using ` HOC ` component encapsulation, convenient and reuse。
@@ -40,7 +42,6 @@ import {
   Text,
   View
 } from 'react-native';
-import { Style } from '../../common/style'
 import ParallaxScrollOpacity from 'react-native-parallax-scroll-opacity'
 
 class OpacityComponent extends Component {

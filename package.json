@@ -1,6 +1,6 @@
 {
   "name": "react-native-parallax-scroll-opacity",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Reactnative a scrolling visual components, using HOC component encapsulation, convenient and reuse。",
   "main": "index.js",
   "scripts": {
